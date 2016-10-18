@@ -6,7 +6,9 @@
 class Lexer
 {
 public:
-
+    Lexer(){}
+    ~Lexer(){}
+    void lex();
 private:
 
 };

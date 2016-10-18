@@ -6,7 +6,9 @@
 class Compiler
 {
 public:
-
+    Compiler(){}
+    ~Compiler(){}
+    void compile();
 private:
 
 };
